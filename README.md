@@ -3,6 +3,9 @@
 <p align="center" style="margin-bottom: 0px !important;">
 <img src="https://github.com/nsikan-udoma/prosper_loan_eda/blob/bee04481147088ae0291684941e37f6680cd689a/icons%20and%20images/Prosper%20EDA%20cover%20image.svg" width="960" height="540">
 
+<br>
+
+---
 # About the Loan Data from Prosper
 Prosper is a peer-to-peer lending platform, where borrowers with fair or good credit can apply for loans and investors can fund them. To qualify applicants, Prosper uses a proprietary rating system that considers data points like credit history and debt-to-income ratio. Then, a prospective borrower is assigned a Prosper score, which investors use to decide whether to fund the loan.
 
