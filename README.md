@@ -8,6 +8,8 @@ Prosper is a peer-to-peer lending platform, where borrowers with fair or good cr
 
 When a loan is listed on the platform, it is open for funding by investors. Once a certain percentage of the loan amount has been funded by investors, the loan is considered "funded" and the borrower can access the funds. The loan application expires if the loan request isn’t at least 70% funded within 14 days, though most loans are funded within three days, according to the company. Source: nerdwallet.com
 
+---
+## Available Data
 <details><summary>
     Data was retrieved from an AWS S3 bucket.
   </summary> 
@@ -22,7 +24,6 @@ ListingKey | ListingNumber | ListingCreationDate | CreditGrade | plan_name | Ter
 
   </details>
 
-# Project tasks are split into 2:
 
 ## Preliminary Data Wrangling
 The loan dataset contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. This [data dictionary](https://docs.google.com/spreadsheets/d/1djKkeentYxKqgNFO2ZHF-KFwVunoZ83VbyLyWYz82M8/edit?usp=sharing) explains the variables (i.e columns) in the data set.
