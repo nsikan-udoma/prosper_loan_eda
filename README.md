@@ -1,4 +1,4 @@
-#<p align="center" style="margin-top 0px;"> 📊 Data Wrangling and Exploratory Data Analysis (EDA) of Prosper Loans data 💸  <p align="center" style="margin-bottom: 0px !important;">
+# <p align="center" style="margin-top 0px;"> 📊 Data Wrangling and Exploratory Data Analysis (EDA) of Prosper Loans data 💸  <p align="center" style="margin-bottom: 0px !important;">
 
 # About the Loan Data from Prosper
 Prosper is a peer-to-peer lending platform, where borrowers with fair or good credit can apply for loans and investors can fund them. To qualify applicants, Prosper uses a proprietary rating system that considers data points like credit history and debt-to-income ratio. Then, a prospective borrower is assigned a Prosper score, which investors use to decide whether to fund the loan.
