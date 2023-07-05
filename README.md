@@ -18,12 +18,12 @@ When a loan is listed on the platform, it is open for funding by investors. Once
   </summary> 
   
  #### ``Snippet of Dataset``
-ListingKey | ListingNumber | ListingCreationDate | CreditGrade | plan_name | Term  |  ...
--- | -- | -- | -- | -- | --  | --
-1021339766868145413AB3B	 | 193129 | 2007-08-26 19:09:29.263000000  |  C  |  36  |  Completed  |  ...
-10273602499503308B223C1	 | 1209647 | 2014-02-27 08:28:07.900000000	|  NaN  |  36  |  Current  |  ...
-0EE9337825851032864889A	 | 81716 | 2007-01-05 15:00:47.090000000  |  HR  |  36  |  Completed  |  ...
-0EF5356002482715299901A	 | 658116 | 2012-10-22 11:02:35.010000000	|  NaN  |  36  |  Current  |  ...
+ListingKey | ListingNumber | ListingCreationDate | CreditGrade | Term | LoanStatus  | ClosedDate  | BorrowerAPR  | BorrowerRate  | LenderYield  |  ...  | LP_ServiceFees  | PercentFunded  | Investors
+-- | -- | -- | -- | -- | --  | --  | --  | --  | --  | --  | --  | --  | --
+1021339766868145413AB3B	 | 193129 | 2007-08-26 19:09:29.263000000  |  C  |  36  |  Completed  |  2009-08-14 00:00:00  |  0.16516  |  0.1580  |  0.1380  |  ...  |  -133.18  |  1.0  |  258
+10273602499503308B223C1	 | 1209647 | 2014-02-27 08:28:07.900000000	|  NaN  |  36  |  Current  |  NaN  |  0.12016  |  0.0920  |  0.0820  |  ...  |  0.00  |  1.0  |  1
+0EE9337825851032864889A	 | 81716 | 2007-01-05 15:00:47.090000000  |  HR  |  36  |  Completed  |  2009-12-17 00:00:00  |  0.28269  |  0.2750  |  0.2400  |  ...  |  -24.20  |  1.0  |  41
+0EF5356002482715299901A	 | 658116 | 2012-10-22 11:02:35.010000000	|  NaN  |  36  |  Current  |  NaN  |  0.12528  |  0.0974  |  0.0874  |  ...  |  -108.01  |  1.0  |  158
 
   </details>
 
