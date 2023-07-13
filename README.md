@@ -12,7 +12,9 @@ Prosper is a peer-to-peer lending platform, where borrowers with fair or good cr
 When a loan is listed on the platform, it is open for funding by investors. Once a certain percentage of the loan amount has been funded by investors, the loan is considered "funded" and the borrower can access the funds. The loan application expires if the loan request isn’t at least 70% funded within 14 days, though most loans are funded within three days, according to the company. Source: nerdwallet.com
 
 <br>
+
 ---
+
 ## Available Data
   
  #### ``Snippet of Dataset``
