@@ -6,6 +6,9 @@
 <br>
 
 ---
+
+<br>
+
 # About the Loan Data from Prosper
 Prosper is a peer-to-peer lending platform, where borrowers with fair or good credit can apply for loans and investors can fund them. To qualify applicants, Prosper uses a proprietary rating system that considers data points like credit history and debt-to-income ratio. Then, a prospective borrower is assigned a Prosper score, which investors use to decide whether to fund the loan.
 
@@ -31,6 +34,8 @@ The dataset can be found in Udacity's AWS S3 repository [here](https://s3.amazon
 <br>
 
 ---
+
+<br>
 
 # Preliminary Data Wrangling
 The loan dataset contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. This [data dictionary](https://docs.google.com/spreadsheets/d/1djKkeentYxKqgNFO2ZHF-KFwVunoZ83VbyLyWYz82M8/edit?usp=sharing) explains the variables (i.e columns) in the data set.
