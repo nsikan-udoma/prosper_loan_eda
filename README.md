@@ -28,6 +28,7 @@ ListingKey | ListingNumber | ListingCreationDate | CreditGrade | Term | LoanStat
 0EE9337825851032864889A	 | 81716 | 2007-01-05 15:00:47.090000000  |  HR  |  36  |  Completed  |  2009-12-17 00:00:00  |  0.28269  |  0.2750  |  0.2400  |  ...  |  -24.20  |  1.0  |  41
 0EF5356002482715299901A	 | 658116 | 2012-10-22 11:02:35.010000000	|  NaN  |  36  |  Current  |  NaN  |  0.12528  |  0.0974  |  0.0874  |  ...  |  -108.01  |  1.0  |  158
 
+<br>
 
 The dataset can be found in Udacity's AWS S3 repository [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv)
 
