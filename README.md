@@ -43,4 +43,4 @@ The dataset can be found in Udacity's AWS S3 repository [here](https://s3.amazon
 # Preliminary Data Wrangling
 For this project, focus will be on just 10 - 20 of the variables in the dataset to answer frequently asked questions like: What factors affect a loan's outcome status? What affects the borrower's interest rate or annual percentage rate (APR)? How do loans differ based on the size of the loan amount? These are some of the questions that I will attempt to answer in this project. But before any exploratory data analysis could be done, data wrangling/pre-processing was necessary to assess and clean up all quality and tidiness issues in the dataset.
 
-Visit the python notebook for [data wrangling steps](https://nbviewer.org/github/nsikan-udoma/prosper_loan_eda/blob/data_wrangling/notebook.ipynb).
+Visit the python notebook for [data wrangling steps](https://nbviewer.org/github/nsikan-udoma/prosper_loan_eda/blob/c3bd8cd50433cdbeda852ad579a7d3f21f1af7b4/notebook.ipynb).
