@@ -23,6 +23,8 @@ ListingKey | ListingNumber | ListingCreationDate | CreditGrade | Term | LoanStat
 0EF5356002482715299901A	 | 658116 | 2012-10-22 11:02:35.010000000	|  NaN  |  36  |  Current  |  NaN  |  0.12528  |  0.0974  |  0.0874  |  ...  |  -108.01  |  1.0  |  158
 
 
+The dataset can be found in Udacity's AWS S3 repository [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv)
+
 
 # Preliminary Data Wrangling
 The loan dataset contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. This [data dictionary](https://docs.google.com/spreadsheets/d/1djKkeentYxKqgNFO2ZHF-KFwVunoZ83VbyLyWYz82M8/edit?usp=sharing) explains the variables (i.e columns) in the data set.
