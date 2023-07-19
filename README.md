@@ -1,7 +1,7 @@
 # <p align="center" style="margin-top 0px;"> 📊 Data Wrangling and Exploratory Data Analysis (EDA) of Prosper Loans data 💰  
 
 <p align="center" style="margin-bottom: 0px !important;">
-<img src="https://github.com/nsikan-udoma/prosper_loan_eda/blob/bee04481147088ae0291684941e37f6680cd689a/icons%20and%20images/Prosper%20EDA%20cover%20image.svg" width="960" height="540">
+<img src="https://github.com/nsikan-udoma/prosper_loan_eda/blob/d71129c644bba6fe3685976f12ddc9d1c91fa89e/icons%20and%20images/Prosper%20Loan%20Analysis%20cover%20image.svg" width="960" height="540">
 
 <br>
 
